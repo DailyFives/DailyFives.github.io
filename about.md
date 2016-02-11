@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Daily Fives is a blog that features five best articles from the web every day on various topics like technology, social media, productivity, life hacks, marketing and related things.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+It runs on Jekyll and is hosted on Github Pages. It is maintained by [@Ramkarthik](https://www.twitter.com/Ramkarthik).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+URL: [http://dailyfives.com](http://dailyfives.com)
+
+Twitter: [@Daily_Fives](https://www.twitter.com/Daily_Fives)
