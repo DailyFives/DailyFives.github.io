@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Daily Fives
+title: DAILY FIVES
 email: dailyfivesdotcom@gmail.com
 description: Daily Fives is a blog that features five best articles from the web every day on various topics like technology, social media, productivity, life hacks, marketing and related things. It runs on Jekyll and is hosted on Github Pages. It is maintained by Ramkarthik.
 baseurl: "" # the subpath of your site, e.g. /blog
