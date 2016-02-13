@@ -1,13 +1,16 @@
 ---
 layout: default
 ---
+{% assign post_count = site.posts.size %}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"></time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
 
 </article>
+<div><div class="random-five"><a href="javascript:randomFive()">Gimme a random Daily Five</a></div><div class="previous-entries"><a href="../archive">>> PREVIOUS ENTRIES</a></div></div>
+<input type="hidden" id="postcount" value="{{ post_count }}" />

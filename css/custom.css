@@ -1,0 +1,94 @@
+.subheader .line{
+	color: #FA5882;
+	margin-left: 12%;
+	margin-right: 40%;
+}
+
+.subheader {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 35%;
+    margin-right: 25%;
+    font-style: italic;
+}
+
+.pagenav {
+	font-weight: 800;
+	margin-top: 10px;
+}
+
+#mc_embed_signup .button {
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #FA5882;
+    font-size: 15px;
+    font-weight: 500;
+}
+#mc_embed_signup {
+	width: 800px;
+	margin-left: -35%;
+}
+
+.content .content .blog-index .entry-title a {
+	font-size: 35px;
+	font-weight: 800;
+}
+
+.content .content .blog-index .entry-content {
+	margin-top: 30px;
+	line-height: 2;
+}
+
+.content .content .blog-index .entry-content a {
+	font-size: 21px;
+	font-weight:500;
+}
+
+.container .content .post .post-title {
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #FA5882;
+	font-size: 35px;
+	font-weight: 800;
+}
+
+.container .content .post .post-content {
+	margin-top: 30px;
+	line-height: 2;
+}
+
+.container .content .post .post-content a {
+	font-size: 21px;
+	font-weight:500;
+}
+
+.share {
+	margin-left:15px;
+	font-size: 15px;
+	font-style: italic;
+}
+
+.social-image {
+	width: 20px;
+	height: auto;
+	margin-top: -1px;
+}
+
+footer .footer {
+	font-size:15px;
+	margin-left: 5%;
+}
+
+.previous-entries {
+	float: right;
+	margin-right: 10px;
+	font-size: 17px;
+	font-weight: 600;
+}
+
+.random-five {
+	float: left;
+	margin-left: 10px;
+	font-size: 17px;
+	font-weight: 600;
+}
