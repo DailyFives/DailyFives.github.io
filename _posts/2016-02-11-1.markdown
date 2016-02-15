@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Launching soon"
-date:   2016-02-11 22:41:13 +0530
-categories: dailyfives announcement
----
-<div class="container">
-	We will be launching soon. Stay tuned.
-</div>

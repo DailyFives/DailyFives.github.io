@@ -1,7 +1,8 @@
 .subheader .line{
 	color: #FA5882;
-	margin-left: 12%;
+	margin-left: 25%;
 	margin-right: 40%;
+	width: 100%;
 }
 
 .subheader {
@@ -9,8 +10,8 @@
     margin-bottom: 20px;
     font-size: 20px;
     font-weight: 500;
-    margin-left: 35%;
-    margin-right: 25%;
+    margin-left: 25%;
+    margin-right: 10%;
     font-style: italic;
 }
 
@@ -27,7 +28,7 @@
 }
 #mc_embed_signup {
 	width: 800px;
-	margin-left: -35%;
+	margin-left: -8%;
 }
 
 .content .content .blog-index .entry-title a {
@@ -72,6 +73,8 @@
 	width: 20px;
 	height: auto;
 	margin-top: -1px;
+	cursor: pointer; 
+	cursor: hand;
 }
 
 footer .footer {
@@ -89,6 +92,12 @@ footer .footer {
 .random-five {
 	float: left;
 	margin-left: 10px;
+	font-size: 17px;
+	font-weight: 600;
+}
+
+.rss {
+	float: left;
 	font-size: 17px;
 	font-weight: 600;
 }
